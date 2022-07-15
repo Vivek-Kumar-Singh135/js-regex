@@ -1,0 +1,37 @@
+form {
+    margin: 0 auto;
+    width: 80%;
+    border: 1px Solid black;
+    background-color: aliceblue;
+}
+
+form>p {
+    margin-left: 15%;
+}
+
+input {
+    width: 300px;
+    margin-left: 2%;
+    float: inline-end;
+}
+
+.alert {
+    color: red;
+}
+
+.fields {
+    display: inline-block;
+    width: 250px;
+}
+
+.check {
+    width: fit-content;
+    background-color: orange;
+    margin-left: 350px;
+}
+
+.success {
+    color: green;
+    font-size: large;
+    margin-left: 500px;
+}
